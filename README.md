@@ -3,9 +3,9 @@
 **🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
 > [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售已过 KYC 的成品号，代充服务已暂停。**
+> **📢 公告：因为 Anthropic 风控加重，目前只出售已过KYC的Claude Pro成品号，代充服务已暂停。**
 >
-> 👉 **[点击购买已过 KYC 的成品号](https://store.ai-headshot.net/item/15)**
+> 👉 **[点击购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
 
 # 🚀 2026年国内如何订阅 Claude Pro 会员？Claude 订阅 / 充值 / 代充保姆级视频图文教程（新手可用）
 
@@ -182,9 +182,9 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 ---
 
 > [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售已过 KYC 的成品号，代充服务已暂停。**
+> **📢 公告：因为 Anthropic 风控加重，目前只出售已过KYC的Claude Pro成品号，代充服务已暂停。**
 >
-> 👉 **[点击购买已过 KYC 的成品号](https://store.ai-headshot.net/item/15)**
+> 👉 **[点击购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
 
 ## 3. ❓ Claude Pro 订阅 / 充值常见问题 FAQ
 
@@ -283,6 +283,6 @@ Max 5x 和 Max 20x 分别是 Pro 用量的 5 倍和 20 倍。日常写作、偶�
 ---
 
 > [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售已过 KYC 的成品号，代充服务已暂停。**
+> **📢 公告：因为 Anthropic 风控加重，目前只出售已过KYC的Claude Pro成品号，代充服务已暂停。**
 >
-> 👉 **[点击购买已过 KYC 的成品号](https://store.ai-headshot.net/item/15)**
+> 👉 **[点击购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**

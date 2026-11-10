@@ -3,9 +3,9 @@
 **🌐 Language / 语言:** [简体中文](./README.md) | **English** | [Русский](./README.ru.md)
 
 > [!IMPORTANT]
-> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified accounts. The top-up service has been suspended.**
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified Claude Pro accounts. The top-up service has been suspended.**
 >
-> 👉 **[Click here to buy a KYC-verified account](https://store.ai-headshot.net/item/15)**
+> 👉 **[Click here to buy a KYC-verified Claude Pro account](https://store.ai-headshot.net/item/15)**
 
 # 🚀 How to Pay for / Subscribe to Claude Pro in 2026 (Step-by-Step Video & Picture Guide for Beginners)
 
@@ -174,9 +174,9 @@ That completes the whole Claude Pro self-service top-up flow. 🎊
 ---
 
 > [!IMPORTANT]
-> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified accounts. The top-up service has been suspended.**
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified Claude Pro accounts. The top-up service has been suspended.**
 >
-> 👉 **[Click here to buy a KYC-verified account](https://store.ai-headshot.net/item/15)**
+> 👉 **[Click here to buy a KYC-verified Claude Pro account](https://store.ai-headshot.net/item/15)**
 
 ## 3. ❓ Claude Pro Top-Up FAQ
 
@@ -275,6 +275,6 @@ If this guide helped, **Star ⭐ / bookmark** it and come straight back when you
 ---
 
 > [!IMPORTANT]
-> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified accounts. The top-up service has been suspended.**
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified Claude Pro accounts. The top-up service has been suspended.**
 >
-> 👉 **[Click here to buy a KYC-verified account](https://store.ai-headshot.net/item/15)**
+> 👉 **[Click here to buy a KYC-verified Claude Pro account](https://store.ai-headshot.net/item/15)**
