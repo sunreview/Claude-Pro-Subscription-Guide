@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified accounts. The top-up service has been suspended.**
 >
-> 👉 Buy a KYC-verified account: [https://store.ai-headshot.net/item/15](https://store.ai-headshot.net/item/15)
+> 👉 **[Click here to buy a KYC-verified account](https://store.ai-headshot.net/item/15)**
 
 # 🚀 How to Pay for / Subscribe to Claude Pro in 2026 (Step-by-Step Video & Picture Guide for Beginners)
 
@@ -76,6 +76,9 @@ If you don't have a Claude Free account yet, you can buy one at the store:
 ---
 
 ## 2. 🖼️ Claude Pro Top-Up Picture Steps (5 steps)
+
+<details>
+<summary><b>📖 Click to expand the picture steps</b></summary>
 
 Here's the formal flow. After watching the video above, follow the picture steps below one by one.
 
@@ -166,7 +169,14 @@ To check the order later, open the order page link in your email, or enter your 
 
 That completes the whole Claude Pro self-service top-up flow. 🎊
 
+</details>
+
 ---
+
+> [!IMPORTANT]
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified accounts. The top-up service has been suspended.**
+>
+> 👉 **[Click here to buy a KYC-verified account](https://store.ai-headshot.net/item/15)**
 
 ## 3. ❓ Claude Pro Top-Up FAQ
 
@@ -267,4 +277,4 @@ If this guide helped, **Star ⭐ / bookmark** it and come straight back when you
 > [!IMPORTANT]
 > **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified accounts. The top-up service has been suspended.**
 >
-> 👉 Buy a KYC-verified account: [https://store.ai-headshot.net/item/15](https://store.ai-headshot.net/item/15)
+> 👉 **[Click here to buy a KYC-verified account](https://store.ai-headshot.net/item/15)**
