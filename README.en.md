@@ -13,11 +13,6 @@
 
 ---
 
-> [!IMPORTANT]
-> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified Claude Pro accounts. The top-up service has been suspended.**
->
-> 👉 **[Click here to buy a KYC-verified Claude Pro account](https://store.ai-headshot.net/item/15)**
-
 ## 1. ❓ Claude Pro Ready-Made Account FAQ
 
 ### Q1: What is a "KYC-verified Claude Pro ready-made account"?
@@ -77,6 +72,11 @@ The listed item is a **Claude Pro** ready-made account. If you need Max, please 
 
 When ordering you enter an **email address** and a **lookup password**. You can later use both on the store's "Order lookup" page to check your order and delivery details.
 
+> [!IMPORTANT]
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified Claude Pro accounts. The top-up service has been suspended.**
+>
+> 👉 **[Click here to buy a KYC-verified Claude Pro account](https://store.ai-headshot.net/item/15)**
+
 ---
 
 ## 2. 💬 Contact Support
@@ -101,17 +101,19 @@ You can also open an Issue in this project, or email support@oksub.net.
 
 ## 🎯 Final Summary
 
-If you already have your own Claude account and just lack a convenient way to pay for Pro, the self-service flow in this guide comes down to one sentence:
+With Anthropic's tightened risk controls, top-ups are no longer reliable. The easiest way to get Claude Pro now is to buy a **KYC-verified Claude Pro ready-made account**. The whole flow comes down to one sentence:
 
-> **Order and pay on oksub.net → Copy Organization ID → Pre-check and confirm top-up on the order page → Refresh Billing to confirm Pro.**
+> **Order and pay on the product page → Contact support (WeChat gracereview618) → Receive the account details → Log in following the reference doc.**
 
-On your first run, don't rush — above all, carefully confirm that the **Organization ID belongs to the account you want to upgrade**.
+Once you have the account, save the delivered details somewhere safe right away, and log in from a stable, clean network to lower the ban risk.
 
 ### 🚀 Related Links
 
-👉 [https://oksub.net](https://oksub.net)
+- 👉 [Buy a KYC-verified Claude Pro account](https://store.ai-headshot.net/item/15)
+- 📖 [Ready-made account guide (reference doc)](https://lq1cjotho2n.feishu.cn/wiki/EjA4wzb8tiTogrkmXEIcCXE4n4d)
+- 🛡️ [Claude Account Ban Prevention Guide](https://github.com/sunreview/anti-claude)
 
-If this guide helped, **Star ⭐ / bookmark** it and come straight back when you renew.
+If this guide helped, **Star ⭐ / bookmark** it and come straight back whenever you need it.
 
 ---
 

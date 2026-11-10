@@ -13,11 +13,6 @@
 
 ---
 
-> [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售已过KYC的Claude Pro成品号，代充服务已暂停。**
->
-> 👉 **[点击购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
-
 ## 1. ❓ Claude Pro 成品号常见问题 FAQ
 
 ### Q1：什么是「已过KYC的Claude Pro成品号」？
@@ -77,6 +72,11 @@ Claude 对使用地区和网络环境比较敏感，封号原因多和使用环�
 
 下单时需要填写 **邮箱地址** 和 **查询密码**。之后可以在商品所在店铺的「订单查询」页面，用这两项查询订单和发货内容。
 
+> [!IMPORTANT]
+> **📢 公告：因为 Anthropic 风控加重，目前只出售已过KYC的Claude Pro成品号，代充服务已暂停。**
+>
+> 👉 **[点击购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
+
 ---
 
 ## 2. 💬 联系客服
@@ -101,17 +101,19 @@ Claude 对使用地区和网络环境比较敏感，封号原因多和使用环�
 
 ## 🎯 最后总结
 
-如果你已经有自己的 Claude 账号，只是缺少方便的 Pro 支付方式，那么本教程介绍的自助流程可以概括成一句话：
+因为 Anthropic 风控加重，代充已经不稳定。现在想用上 Claude Pro，最省心的方式是直接买一个 **已过KYC的Claude Pro成品号**，流程可以概括成一句话：
 
-> **oksub.net 下单付款 → 复制 Organization ID → 订单页预检并确认充值 → 刷新 Billing 确认 Pro。**
+> **商品页下单付款 → 联系客服 gracereview618 → 收到账号信息 → 按参考文档登录使用。**
 
-第一次操作时，不要追求快，尤其要认真核对 **Organization ID 是否属于你要升级的账号**。
+拿到账号后，请第一时间妥善保存交付信息，并尽量使用稳定、干净的网络环境登录，降低封号风险。
 
 ### 🚀 相关入口
 
-👉 [https://oksub.net](https://oksub.net/claude)
+- 👉 [购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)
+- 📖 [成品号使用说明（参考文档）](https://lq1cjotho2n.feishu.cn/wiki/EjA4wzb8tiTogrkmXEIcCXE4n4d)
+- 🛡️ [Claude 防封号指南](https://github.com/sunreview/anti-claude)
 
-如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后续费时直接回来查看。
+如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后需要时直接回来查看。
 
 ---
 
