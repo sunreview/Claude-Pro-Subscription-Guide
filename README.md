@@ -13,24 +13,6 @@
 >
 > 📅 最后更新：2026 年 11 月
 
-## 🎬 视频教程（约 30 秒全流程演示）
-
-先花 30 秒看一遍完整流程，建立整体认知，再对照下面的图文步骤逐项操作会更顺。
-
-
-
-
-
-https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
-
-
-
-
-
-> ▶️ 上方视频可直接在页面内播放。也可[下载视频文件](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/1012.mp4)。
-
----
-
 ## 📋 关键信息一览
 
 | 项目 | 说明 |
@@ -83,172 +65,75 @@ https://github.com/user-attachments/assets/4e6b8e72-0614-4ca0-b24f-2ccca6df5373
 
 ---
 
-## 2. 🖼️ Claude Pro 订阅（充值）图文步骤（共 5 步）
-
-<details>
-<summary><b>📖 点击展开图文步骤</b></summary>
-
-下面进入正式充值流程。看完上方视频后，对照下面的图文步骤逐项操作即可。
-
-### 第 1 步：登录你要充值的 Claude 账号 👤
-
-打开 https://claude.ai/ 并登录 **你真正准备升级 Pro 的账号**。
-
-> 💡 建议通过 📮 接码链接 接收 登陆账号验证码，降低封号风险。
-
-登录后可以看到左下角账号名旁边显示 **Free**，页面顶部显示 **Free plan**，说明当前还是免费版。
-
-![步骤1：登录 Claude 账号，确认当前是 Free plan](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/step-01.jpg)
-
----
-
-### 第 2 步：打开 oksub.net 下单并付款 🛒
-
-打开 oksub.net 的 Claude 充值页面：
-
-👉 [前往 oksub.net 下单 Claude Pro](https://oksub.net/claude)
-
-在套餐区选择 **Claude Pro**，点击 **「立即开通」**，阅读风险提示后点击 **「我已知悉并继续」**。
-
-![步骤2-1：在 oksub.net 选择 Claude Pro 套餐](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/oksub-01.jpg)
-
-进入下单页后，页面顶部可以看到三个步骤：**选套餐 · 填信息 → 扫码付款 → 填写充值账号**。
-
-填写常用 **邮箱**（付款成功后订单页链接会发到这个邮箱），选择付款方式（**微信支付** 或 **USDT-BEP20 / USDT-Polygon**），点击底部的 **「立即支付」**。
-
-注意：
-
-- 邮箱请填写常用邮箱，防止失联；
-- 需要发票请选择「需要发票」，不开票的订单之后不支持补开；
-- 下单前确认要充值的 Claude 账号当前是 **Free**。
-
-![步骤2-2：填写邮箱、选择付款方式](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/oksub-02.jpg)
-
-在付款页核对订单信息后完成付款（微信扫码或 USDT 转账），付款成功后页面会自动跳转到订单页。
-
-![步骤2-3：确认订单并付款](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/oksub-03.jpg)
-
----
-
-### 第 3 步：复制 Claude 账号的 Organization ID 📋
-
-回到 Claude，打开账号设置页面：
-
-👉 https://claude.ai/settings/account
-
-在 **Settings → Account** 页面中找到 **Organization ID**，完整复制这一串 ID。
-
-![步骤3：在 Account 页面复制 Organization ID](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/step-03.jpg)
-
-> ⚠️ **Organization ID 决定了充值到哪个账号。** 如果浏览器里同时登录了多个 Claude 账号，请确认当前复制的是你要升级的那个账号。
-
----
-
-### 第 4 步：粘贴 Organization ID，确认充值 ✅
-
-回到 oksub.net 的订单页，此时订单显示 **已付款**，下方是 **「Claude Pro：输入 Organization ID 充值」**。
-
-把刚才复制的 Organization ID 粘贴到 **「Organization ID」** 输入框中，点击 **「预检账号信息」**。
-
-预检通过后会出现 **「核对充值账号」**，确认 Organization ID 和充值后套餐 **Claude Pro** 无误，勾选 **「我确认这是本次要充值的 Claude 账号，且当前没有 Pro / Max 等有效会员」**，再点击 **「确认并开始充值」**。
-
-> ⚠️ Organization ID 填错会充值到其他 Claude 账号，请务必核对后再提交。提交后不要重复点击，也不要随意切换账号。
-
-![步骤4：粘贴 Organization ID 并确认充值](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/oksub-04.jpg)
-
----
-
-### 第 5 步：回到 Claude 确认 Pro 状态 💎
-
-回到 Claude 官方网页，刷新页面，打开 **Settings → Billing**。
-
-如果已经显示 **Pro plan**，就说明升级成功。
-
-![步骤5：Billing 页面显示 Pro plan，充值成功](https://raw.githubusercontent.com/sunreview/GetClaudePro/main/step-05.jpg)
-
-如果刷新后暂时没有变化，可以：
-
-1. 等待几十秒；
-2. 刷新页面；
-3. 退出 Claude 后重新登录；
-4. 再次检查 Billing 页面的套餐状态。
-
-之后如需查看订单，可以打开邮箱里的订单页链接，或在 [订单查询](https://oksub.net/orders) 页面输入订单号 / 下单邮箱查询。
-
-到这里，整个 Claude Pro 自助充值流程就完成了。🎊
-
-</details>
-
----
-
 > [!IMPORTANT]
 > **📢 公告：因为 Anthropic 风控加重，目前只出售已过KYC的Claude Pro成品号，代充服务已暂停。**
 >
 > 👉 **[点击购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
 
-## 3. ❓ Claude Pro 订阅 / 充值常见问题 FAQ
+## 2. ❓ Claude Pro 成品号常见问题 FAQ
 
-### Q1：这种充值方式质保吗？
+### Q1：什么是「已过KYC的Claude Pro成品号」？
 
-质保 30 天订阅：30 天内 Pro 订阅中途掉了（账号未被封禁），请及时联系客服（微信 **gracereview618** / Telegram **@aispace_kefu**）并附上订单号处理。注意：**账号被封禁不在质保范围内**。
+是已经完成 **KYC 认证**、并开通了 **Claude Pro 套餐** 的现成 Claude 账号。下单后直接拿到账号就能用，不需要自己注册、认证或找支付方式。
 
-### Q2：为什么不质保封号？
+👉 [前往购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)
 
-Claude 对使用地区和网络环境比较敏感，封号原因多和使用环境有关，不在充值服务能控制的范围内。建议使用稳定、干净的网络环境。
+### Q2：为什么不再提供代充，只卖成品号？
 
-### Q3：充值需要把 Claude 密码给别人吗？
+Anthropic 最近风控加重，给新号或普通账号充值更容易出问题。已过 KYC 的成品号更稳定，所以目前只出售成品号，代充服务已暂停。
 
-不需要。付款后只需在订单页填写 Claude 账号的 **Organization ID**（在 claude.ai/settings/account 页面复制），它只是账号标识，不是密码，也不需要邮箱验证码。充的是你自己的账号，聊天记录和 Projects 都会保留。
+### Q3：下单后多久能拿到账号？
 
-### Q4：Organization ID 在哪里找？
+商品为 **在线发货**，Pro 套餐 **当日充值**。下单后请联系客服微信 **gracereview618** 即可。
 
-登录 Claude 后打开 https://claude.ai/settings/account ，在 Account 页面就能看到 **Organization ID**（一串类似 `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx` 的字符），完整复制后粘贴到订单页。浏览器里同时登录了多个 Claude 账号时，请确认复制的是要升级的那个，填错会充到别的账号。
+### Q4：交付的是什么内容？
 
-### Q5：系统显示充值完成，但 Claude 还是 Free 怎么办？
+交付格式如下：
 
-可以依次尝试：
+```
+邮箱账号----邮箱密码----ClientId----令牌----辅助邮箱----辅助邮箱密码----sk
+```
 
-1. 刷新 Claude 页面；
-2. 等待几十秒后再看；
-3. 退出账号重新登录；
-4. 打开 Settings → Billing 确认套餐；
-5. 仍然显示 Free，请联系客服并附上订单号，客服会帮你核对处理。
+- **辅助邮箱登录地址**：mail.wroutlook.cc
+- **参考文档**：[成品号使用说明](https://lq1cjotho2n.feishu.cn/wiki/EjA4wzb8tiTogrkmXEIcCXE4n4d)
 
-### Q6：已经是 Pro 了，能提前续费吗？
+收到后请妥善保存这些信息，不要泄露给他人。
 
-不能提前叠加。请等当前订阅到期、账号回到 Free 状态后再下单充值。
+### Q5：拿到账号后怎么登录？
 
-### Q7：已经是 Pro，能直接升级到 Max 吗？
+请按照 [参考文档](https://lq1cjotho2n.feishu.cn/wiki/EjA4wzb8tiTogrkmXEIcCXE4n4d) 的步骤操作。登录时如需接收邮箱验证码，可以用交付的邮箱或辅助邮箱查收。遇到问题直接联系客服。
 
-不能直接升级。Max 同样只支持 Free 账号，请等 Pro 到期、账号回到 Free 后再下单 Max，否则无法到账且不予退款。
+> ‼️ 建议使用稳定、干净的网络环境登录，降低封号风险。更详细的防封号技巧请参考 [Claude 防封号指南](https://github.com/sunreview/anti-claude)。
 
-### Q8：充值成功后可以在手机上用吗？
+### Q6：成品号质保吗？
+
+**订阅质保 30 天**：30 天内 Pro 订阅中途掉了（账号未被封禁），请及时联系客服（微信 **gracereview618** / Telegram **@aispace_kefu**）并附上订单号处理。注意：**账号被封禁不在质保范围内**。
+
+### Q7：为什么不质保封号？
+
+Claude 对使用地区和网络环境比较敏感，封号原因多和使用环境有关，不在卖家能控制的范围内。建议使用稳定、干净的网络环境。
+
+### Q8：成品号可以在手机上用吗？
 
 可以。订阅绑定在账号上，网页端、桌面端和手机 App 登录同一个 Claude 账号都能使用 Pro。
 
-### Q9：充值成功后可以使用 Claude Code 吗？
+### Q9：成品号可以使用 Claude Code 吗？
 
 可以，不需要另外付费。Claude Code 包含在 Pro 订阅里：下载 Claude Code 或 Claude 桌面端，登录同一个 Claude 账号即可使用，额度随订阅档位计算。
 
-### Q10：Pro、Max 5x、Max 20x 怎么选？Max 怎么开通？
+### Q10：有 Max 5x / Max 20x 成品号吗？
 
-Max 5x 和 Max 20x 分别是 Pro 用量的 5 倍和 20 倍。日常写作、偶尔用 Claude Code 选 Pro；每天长时间跑 Claude Code 或 Agent 选 Max 5x；全天候重度开发、经常碰到用量上限选 Max 20x。
-
-**Max 怎么开通**：Max 5x / 20x 由客服人工交付：付款后在订单页点「联系客服」，发送订单号，客服核对后为你开通。账号须为 Free（没有生效中的 Pro / Max 会员），且已通过 KYC 实名认证。
+目前上架的是 **Claude Pro** 成品号。如需 Max，请先联系客服咨询。
 
 ### Q11：下单后在哪里查订单？
 
-付款成功后订单页链接会发到你的下单邮箱；也可以在 [订单查询](https://oksub.net/orders) 页面输入订单号或下单邮箱查询。
-
-### Q12：可以开发票吗？
-
-可以，支持开具**蓝字发票**，已为多位用户开具。需要的话，付款后联系客服（微信 **gracereview618** / Telegram **@aispace_kefu**），提供订单号和开票信息（抬头、税号等）即可。
+下单时需要填写 **邮箱地址** 和 **查询密码**。之后可以在商品所在店铺的「订单查询」页面，用这两项查询订单和发货内容。
 
 ---
 
-## 4. 💬 联系客服
+## 3. 💬 联系客服
 
-如果你按照上面的步骤操作后，仍然遇到付款、Organization ID、充值结果等问题，可以联系售后协助处理（请附上订单号）。
+如果你在下单、收货、登录或使用成品号时遇到问题，可以联系售后协助处理（请附上订单号）。
 
 ### 📱 微信客服
 
