@@ -32,7 +32,7 @@ Anthropic has recently tightened its risk controls, and topping up new or ordina
 
 ### Q3: How soon do I get the account after ordering?
 
-The item is **delivered online**, and the Pro plan is **topped up the same day**. After ordering, just contact support on WeChat **gracereview618**.
+The item is **delivered manually**, and the Pro plan is **topped up the same day**. After ordering, contact support on WeChat **gracereview618**; support will check your order and deliver the account.
 
 ### Q4: What exactly is delivered?
 
