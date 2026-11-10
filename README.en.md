@@ -9,59 +9,7 @@
 
 # 🚀 How to Pay for / Subscribe to Claude Pro in 2026 (Step-by-Step Video & Picture Guide for Beginners)
 
-> A **Claude Pro top-up guide** for users without an international credit card: order and pay with WeChat Pay / USDT on the all-in-one top-up site **[oksub.net](https://oksub.net/claude)**, then **self-serve the top-up** to **upgrade your own Claude account to a Pro subscription**. This article walks through the full **picture + video** flow — ordering and paying, copying your Organization ID, submitting the top-up, and confirming Pro status. You only need to copy your account's **Organization ID**; no password required, your chat history is kept, and the subscription carries a 30-day warranty (account bans are not covered).
->
 > 📅 Last updated: November 2026
-
-## 📋 Key Facts at a Glance
-
-| Item | Details |
-| --- | --- |
-| Who it's for | Users who already have their own Claude account but no international credit card |
-| Price | **Pro ¥159/mo** (official $20) · **Max 5x ¥849/mo** (official $100) · **Max 20x ¥1799/mo** (official $200); see [oksub.net](https://oksub.net/claude) for current prices |
-| Activation | Pro: self-service top-up after payment, done in minutes; Max 5x / 20x: activated by support after payment |
-| Top-up method | Order and pay on oksub.net (WeChat Pay / USDT) + Organization ID self-service top-up, upgrading your own account to Pro |
-| Account requirement | The account must currently be Free (no active Pro / Max membership); stacking on an existing plan is not supported |
-| What you provide | Only your account's Organization ID — no password, no email verification code |
-| No Claude account yet | You can [buy a Claude Free account](https://store.ai-headshot.net/item/7) at the store, then top up |
-| Where it works | Pro works on web, desktop, and mobile apps, and with Claude Code |
-| Time needed | ~30 seconds to watch the video; 5 steps in practice |
-| Warranty | 30-day subscription warranty; contact support if the subscription drops. Account bans are not covered |
-| Invoice | Official invoices (blue-ink fapiao) available — contact support after payment with your invoice details |
-| Track record | 300+ orders served |
-| Support | WeChat `gracereview618`, Telegram `@aispace_kefu`, email support@oksub.net |
-
-<p align="center"><img src="./oksub-sold-302.png" alt="Claude Pro self-service top-up: 302 sold" width="260"><br><sub>Claude Pro self-service top-up: 300+ sold</sub></p>
-
-## 📌 One-Sentence Answer: How do I pay for Claude Pro without an international card?
-
-No international credit card needed. Open **[oksub.net](https://oksub.net/claude)**, choose **Claude Pro**, enter your email and pay with WeChat Pay or USDT — you're taken to the order page automatically after payment. Then go to Claude's **Settings → Account** page, copy your account's **Organization ID**, paste it into the order page, run the pre-check, and confirm the top-up. Refresh **Settings → Billing**; when it shows **Pro plan**, the upgrade is done. No password is ever required, you're upgrading your own account, your chat history and Projects are kept, and the subscription has a 30-day warranty (bans not covered).
-
----
-
-## 1. 🧰 What do you need to top up Claude Pro?
-
-No international credit card and payments rejected by risk control are the most common blockers when subscribing to Claude Pro. This method only needs your Organization ID — no password.
-
-### ① An email you use regularly + WeChat Pay / USDT
-
-You'll enter an email when ordering on oksub.net; after payment, the order page link is sent to that email so you can come back any time to continue the top-up or check the order. Payment supports WeChat Pay and USDT (BEP20 / Polygon), no login needed:
-
-👉 [Order Claude Pro on oksub.net](https://oksub.net/claude)
-
-### ② A Claude account you can log in to
-
-Before topping up, make sure you can log in to **the exact Claude account you intend to upgrade**, so you don't lose track of the account after a successful top-up. The account must currently be **Free** (no active Pro / Max membership) — Claude does not support topping up over an existing plan.
-
-If you don't have a Claude Free account yet, you can buy one at the store:
-
-👉 [Buy a plain Claude Free account](https://store.ai-headshot.net/item/7)
-
-### ③ Lower your ban risk (strongly recommended)
-
-> ‼️ Tip: receive your Claude login verification code through a 📮 code-receiving link to lower the ban risk! ‼️
->
-> For more detailed tips on avoiding account bans, please refer to the [Claude Account Ban Prevention Guide](https://github.com/sunreview/anti-claude).
 
 ---
 
@@ -70,7 +18,7 @@ If you don't have a Claude Free account yet, you can buy one at the store:
 >
 > 👉 **[Click here to buy a KYC-verified Claude Pro account](https://store.ai-headshot.net/item/15)**
 
-## 2. ❓ Claude Pro Ready-Made Account FAQ
+## 1. ❓ Claude Pro Ready-Made Account FAQ
 
 ### Q1: What is a "KYC-verified Claude Pro ready-made account"?
 
@@ -131,7 +79,7 @@ When ordering you enter an **email address** and a **lookup password**. You can 
 
 ---
 
-## 3. 💬 Contact Support
+## 2. 💬 Contact Support
 
 If you run into any issues ordering, receiving, logging in to, or using the ready-made account, contact after-sales support for help (please include your order number).
 
