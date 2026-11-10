@@ -2,6 +2,11 @@
 
 **🌐 Language / 语言:** [简体中文](./README.md) | **English** | [Русский](./README.ru.md)
 
+> [!IMPORTANT]
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified accounts. The top-up service has been suspended.**
+>
+> 👉 Buy a KYC-verified account: [https://store.ai-headshot.net/item/15](https://store.ai-headshot.net/item/15)
+
 # 🚀 How to Pay for / Subscribe to Claude Pro in 2026 (Step-by-Step Video & Picture Guide for Beginners)
 
 > A **Claude Pro top-up guide** for users without an international credit card: order and pay with WeChat Pay / USDT on the all-in-one top-up site **[oksub.net](https://oksub.net/claude)**, then **self-serve the top-up** to **upgrade your own Claude account to a Pro subscription**. This article walks through the full **picture + video** flow — ordering and paying, copying your Organization ID, submitting the top-up, and confirming Pro status. You only need to copy your account's **Organization ID**; no password required, your chat history is kept, and the subscription carries a 30-day warranty (account bans are not covered).
@@ -256,3 +261,10 @@ On your first run, don't rush — above all, carefully confirm that the **Organi
 👉 [https://oksub.net](https://oksub.net)
 
 If this guide helped, **Star ⭐ / bookmark** it and come straight back when you renew.
+
+---
+
+> [!IMPORTANT]
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-verified accounts. The top-up service has been suspended.**
+>
+> 👉 Buy a KYC-verified account: [https://store.ai-headshot.net/item/15](https://store.ai-headshot.net/item/15)

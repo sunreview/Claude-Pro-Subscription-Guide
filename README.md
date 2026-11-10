@@ -2,6 +2,11 @@
 
 **🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
+> [!IMPORTANT]
+> **📢 公告：因为 Anthropic 风控加重，目前只出售已过 KYC 的成品号，代充服务已暂停。**
+>
+> 👉 购买已过 KYC 的成品号：[https://store.ai-headshot.net/item/15](https://store.ai-headshot.net/item/15)
+
 # 🚀 2026年国内如何订阅 Claude Pro 会员？Claude 订阅 / 充值 / 代充保姆级视频图文教程（新手可用）
 
 > 面向国内 / 中文用户的 **Claude Pro 充值教程**：无需国际信用卡，在一站式充值网站 **[oksub.net](https://oksub.net/claude)** 用微信 / USDT 付款后**自助充值**，给自己的 Claude 账号**升级 Pro 订阅**。本文整理了从下单付款、复制 Organization ID、提交充值到确认 Pro 状态的完整 **图文 + 视频** 流程，新手可对照操作。只需复制自己账号的 **Organization ID**，无需密码，聊天记录保留，订阅质保 30 天（封号不保）。
@@ -264,3 +269,10 @@ Max 5x 和 Max 20x 分别是 Pro 用量的 5 倍和 20 倍。日常写作、偶�
 👉 [https://oksub.net](https://oksub.net/claude)
 
 如果这篇教程对你有帮助，可以 **Star ⭐ / 收藏**，以后续费时直接回来查看。
+
+---
+
+> [!IMPORTANT]
+> **📢 公告：因为 Anthropic 风控加重，目前只出售已过 KYC 的成品号，代充服务已暂停。**
+>
+> 👉 购买已过 KYC 的成品号：[https://store.ai-headshot.net/item/15](https://store.ai-headshot.net/item/15)
