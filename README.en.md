@@ -74,11 +74,7 @@ Yes. The subscription is tied to the account, so Pro works on web, desktop, and 
 
 Yes, at no extra cost. Claude Code is included in the Pro subscription: download Claude Code or the Claude desktop app and log in with the same Claude account. Usage limits follow your plan tier.
 
-### Q12: Do you sell Max 5x / Max 20x accounts?
-
-The listed item is a **Claude Pro** ready-made account. If you need Max, please ask support first.
-
-### Q13: Where can I check my order?
+### Q12: Where can I check my order?
 
 When ordering you enter an **email address** and a **lookup password**. You can later use both on the store's "Order lookup" page to check your order and delivery details.
 
