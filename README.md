@@ -3,9 +3,9 @@
 **🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
 > [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售免KYC的Claude Pro成品号，代充服务已暂停。**
+> **📢 公告：因为 Anthropic 风控加重，目前只出售免KYC的Claude Pro / Max 5x成品号（Ultra 暂时缺货），代充服务已暂停。**
 >
-> 👉 **[点击购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
+> 👉 **[点击购买免KYC的Claude Pro / Max 5x成品号](https://oksub.net/claude)**
 
 # 🚀 2026年国内如何订阅 Claude Pro 会员？Claude 订阅 / 充值 / 代充保姆级视频图文教程（新手可用）
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 1. ❓ Claude Pro 成品号常见问题 FAQ
+## 1. ❓ Claude Pro / Max 成品号常见问题 FAQ
 
-### Q1：什么是「免KYC的Claude Pro成品号」？
+### Q1：什么是「免KYC的Claude Pro / Max 5x成品号」？
 
-是 **发货时未被要求 KYC 身份验证**（免 KYC）、并已开通 **Claude Pro 套餐** 的现成 Claude 账号。下单后直接拿到账号就能用，不需要自己注册、认证或找支付方式。
+是 **发货时未被要求 KYC 身份验证**（免 KYC）、并已开通 **Claude Pro 或 Max 5x 套餐** 的现成 Claude 账号。Ultra（原 Max 20x）暂时缺货。下单后直接拿到账号就能用，不需要自己注册、认证或找支付方式。
 
-👉 [前往购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)
+👉 [前往购买免KYC的Claude Pro / Max 5x成品号](https://oksub.net/claude)
 
 ### Q2：免KYC是不是以后永远不会弹 KYC？
 
@@ -33,11 +33,11 @@
 
 ### Q4：为什么不再提供代充，只卖成品号？
 
-Anthropic 最近风控加重，给新号或普通账号充值更容易出问题。已经开通 Pro 的成品号比代充稳定得多，所以目前只出售成品号，代充服务已暂停。
+Anthropic 最近风控加重，给新号或普通账号充值更容易出问题。已经开通 Pro / Max 的成品号比代充稳定得多，所以目前只出售成品号，代充服务已暂停。
 
 ### Q5：下单后多久能拿到账号？
 
-商品为 **手动发货**，Pro 套餐 **当日充值**。下单后请联系客服微信 **gracereview618**，客服核对订单后为你发货。
+商品为 **手动发货**，Pro / Max 5x 套餐 **当日开通**。付款后在订单页点「联系客服」（微信 **gracereview618**）并发送订单号，客服核对订单后为你发货。
 
 ### Q6：交付的是什么内容？
 
@@ -60,7 +60,7 @@ Anthropic 最近风控加重，给新号或普通账号充值更容易出问题�
 
 ### Q8：成品号质保吗？
 
-**订阅质保 30 天**：30 天内 Pro 订阅中途掉了（账号未被封禁），请及时联系客服（微信 **gracereview618** / Telegram **@aispace_kefu**）并附上订单号处理。注意：**账号被封禁不在质保范围内**。
+**订阅质保 30 天**：30 天内 Pro / Max 订阅中途掉了（账号未被封禁），请及时联系客服（微信 **gracereview618** / Telegram **@aispace_kefu**）并附上订单号处理。注意：**账号被封禁不在质保范围内**。
 
 ### Q9：为什么不质保封号？
 
@@ -68,20 +68,20 @@ Claude 对使用地区和网络环境比较敏感，封号原因多和使用环�
 
 ### Q10：成品号可以在手机上用吗？
 
-可以。订阅绑定在账号上，网页端、桌面端和手机 App 登录同一个 Claude 账号都能使用 Pro。
+可以。订阅绑定在账号上，网页端、桌面端和手机 App 登录同一个 Claude 账号都能使用 Pro / Max。
 
 ### Q11：成品号可以使用 Claude Code 吗？
 
-可以，不需要另外付费。Claude Code 包含在 Pro 订阅里：下载 Claude Code 或 Claude 桌面端，登录同一个 Claude 账号即可使用，额度随订阅档位计算。
+可以，不需要另外付费。Claude Code 包含在 Pro 和 Max 订阅里：下载 Claude Code 或 Claude 桌面端，登录同一个 Claude 账号即可使用，额度随订阅档位计算。
 
 ### Q12：下单后在哪里查订单？
 
-下单时需要填写 **邮箱地址** 和 **查询密码**。之后可以在商品所在店铺的「订单查询」页面，用这两项查询订单和发货内容。
+在 [OKSub 订单查询](https://oksub.net/orders) 页面输入 **订单号** 或 **下单时填写的邮箱** 即可查询，无需注册。
 
 > [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售免KYC的Claude Pro成品号，代充服务已暂停。**
+> **📢 公告：因为 Anthropic 风控加重，目前只出售免KYC的Claude Pro / Max 5x成品号（Ultra 暂时缺货），代充服务已暂停。**
 >
-> 👉 **[点击购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
+> 👉 **[点击购买免KYC的Claude Pro / Max 5x成品号](https://oksub.net/claude)**
 
 ---
 
@@ -107,7 +107,7 @@ Claude 对使用地区和网络环境比较敏感，封号原因多和使用环�
 
 ## 🎯 最后总结
 
-因为 Anthropic 风控加重，代充已经不稳定。现在想用上 Claude Pro，最省心的方式是直接买一个 **免KYC的Claude Pro成品号**，流程可以概括成一句话：
+因为 Anthropic 风控加重，代充已经不稳定。现在想用上 Claude Pro / Max，最省心的方式是直接买一个 **免KYC的Claude Pro / Max 5x成品号**，流程可以概括成一句话：
 
 > **商品页下单付款 → 联系客服 gracereview618 → 收到账号信息 → 按参考文档登录使用。**
 
@@ -115,7 +115,7 @@ Claude 对使用地区和网络环境比较敏感，封号原因多和使用环�
 
 ### 🚀 相关入口
 
-- 👉 [购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)
+- 👉 [购买免KYC的Claude Pro / Max 5x成品号](https://oksub.net/claude)
 - 📖 [成品号使用说明（参考文档）](https://lq1cjotho2n.feishu.cn/wiki/EjA4wzb8tiTogrkmXEIcCXE4n4d)
 - 🛡️ [Claude 防封号指南](https://github.com/sunreview/anti-claude)
 
@@ -124,6 +124,6 @@ Claude 对使用地区和网络环境比较敏感，封号原因多和使用环�
 ---
 
 > [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售免KYC的Claude Pro成品号，代充服务已暂停。**
+> **📢 公告：因为 Anthropic 风控加重，目前只出售免KYC的Claude Pro / Max 5x成品号（Ultra 暂时缺货），代充服务已暂停。**
 >
-> 👉 **[点击购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
+> 👉 **[点击购买免KYC的Claude Pro / Max 5x成品号](https://oksub.net/claude)**

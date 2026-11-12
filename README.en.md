@@ -3,9 +3,9 @@
 **🌐 Language / 语言:** [简体中文](./README.md) | **English** | [Русский](./README.ru.md)
 
 > [!IMPORTANT]
-> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-free Claude Pro accounts. The top-up service has been suspended.**
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-free Claude Pro / Max 5x accounts (Ultra is temporarily out of stock). The top-up service has been suspended.**
 >
-> 👉 **[Click here to buy a KYC-free Claude Pro account](https://store.ai-headshot.net/item/15)**
+> 👉 **[Click here to buy a KYC-free Claude Pro / Max 5x account](https://oksub.net/claude)**
 
 # 🚀 How to Pay for / Subscribe to Claude Pro in 2026 (Step-by-Step Video & Picture Guide for Beginners)
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 1. ❓ Claude Pro Ready-Made Account FAQ
+## 1. ❓ Claude Pro / Max Ready-Made Account FAQ
 
-### Q1: What is a "KYC-free Claude Pro ready-made account"?
+### Q1: What is a "KYC-free Claude Pro / Max 5x ready-made account"?
 
-It's a ready-to-use Claude account that **had not been asked for KYC identity verification at the time of delivery** (KYC-free) and has the **Claude Pro plan** activated. After ordering you get the account and can start using it right away — no need to register, verify, or find a payment method yourself.
+It's a ready-to-use Claude account that **had not been asked for KYC identity verification at the time of delivery** (KYC-free) and has the **Claude Pro or Max 5x plan** activated. Ultra (formerly Max 20x) is temporarily out of stock. After ordering you get the account and can start using it right away — no need to register, verify, or find a payment method yourself.
 
-👉 [Buy a KYC-free Claude Pro account](https://store.ai-headshot.net/item/15)
+👉 [Buy a KYC-free Claude Pro / Max 5x account](https://oksub.net/claude)
 
 ### Q2: Does "KYC-free" mean KYC will never pop up?
 
@@ -33,11 +33,11 @@ If KYC is triggered, you'll need to **complete the KYC verification yourself**. 
 
 ### Q4: Why no more top-ups, only ready-made accounts?
 
-Anthropic has recently tightened its risk controls, and topping up new or ordinary accounts runs into problems more often. Ready-made accounts with Pro already active are far more stable than top-ups, so we currently only sell ready-made accounts and the top-up service is suspended.
+Anthropic has recently tightened its risk controls, and topping up new or ordinary accounts runs into problems more often. Ready-made accounts with Pro / Max already active are far more stable than top-ups, so we currently only sell ready-made accounts and the top-up service is suspended.
 
 ### Q5: How soon do I get the account after ordering?
 
-The item is **delivered manually**, and the Pro plan is **topped up the same day**. After ordering, contact support on WeChat **gracereview618**; support will check your order and deliver the account.
+The item is **delivered manually**, and the Pro / Max 5x plan is **activated the same day**. After paying, click "Contact support" on the order page (WeChat **gracereview618**) and send your order number; support will check your order and deliver the account.
 
 ### Q6: What exactly is delivered?
 
@@ -60,7 +60,7 @@ Follow the steps in the [reference doc](https://lq1cjotho2n.feishu.cn/wiki/EjA4w
 
 ### Q8: Is there a warranty?
 
-**30-day subscription warranty**: if the Pro subscription drops within 30 days (and the account is not banned), contact support promptly (WeChat **gracereview618** / Telegram **@aispace_kefu**) with your order number. Note: **account bans are not covered**.
+**30-day subscription warranty**: if the Pro / Max subscription drops within 30 days (and the account is not banned), contact support promptly (WeChat **gracereview618** / Telegram **@aispace_kefu**) with your order number. Note: **account bans are not covered**.
 
 ### Q9: Why aren't account bans covered?
 
@@ -68,20 +68,20 @@ Claude is sensitive to the region and network environment it's used from. Bans a
 
 ### Q10: Can I use the account on mobile?
 
-Yes. The subscription is tied to the account, so Pro works on web, desktop, and the mobile app when you log in to the same Claude account.
+Yes. The subscription is tied to the account, so Pro / Max works on web, desktop, and the mobile app when you log in to the same Claude account.
 
 ### Q11: Can I use Claude Code with it?
 
-Yes, at no extra cost. Claude Code is included in the Pro subscription: download Claude Code or the Claude desktop app and log in with the same Claude account. Usage limits follow your plan tier.
+Yes, at no extra cost. Claude Code is included in both the Pro and Max subscriptions: download Claude Code or the Claude desktop app and log in with the same Claude account. Usage limits follow your plan tier.
 
 ### Q12: Where can I check my order?
 
-When ordering you enter an **email address** and a **lookup password**. You can later use both on the store's "Order lookup" page to check your order and delivery details.
+Go to the [OKSub order lookup](https://oksub.net/orders) page and enter your **order number** or the **email you used when ordering** — no registration needed.
 
 > [!IMPORTANT]
-> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-free Claude Pro accounts. The top-up service has been suspended.**
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-free Claude Pro / Max 5x accounts (Ultra is temporarily out of stock). The top-up service has been suspended.**
 >
-> 👉 **[Click here to buy a KYC-free Claude Pro account](https://store.ai-headshot.net/item/15)**
+> 👉 **[Click here to buy a KYC-free Claude Pro / Max 5x account](https://oksub.net/claude)**
 
 ---
 
@@ -107,7 +107,7 @@ You can also open an Issue in this project, or email support@oksub.net.
 
 ## 🎯 Final Summary
 
-With Anthropic's tightened risk controls, top-ups are no longer reliable. The easiest way to get Claude Pro now is to buy a **KYC-free Claude Pro ready-made account**. The whole flow comes down to one sentence:
+With Anthropic's tightened risk controls, top-ups are no longer reliable. The easiest way to get Claude Pro / Max now is to buy a **KYC-free Claude Pro / Max 5x ready-made account**. The whole flow comes down to one sentence:
 
 > **Order and pay on the product page → Contact support (WeChat gracereview618) → Receive the account details → Log in following the reference doc.**
 
@@ -115,7 +115,7 @@ Once you have the account, save the delivered details somewhere safe right away,
 
 ### 🚀 Related Links
 
-- 👉 [Buy a KYC-free Claude Pro account](https://store.ai-headshot.net/item/15)
+- 👉 [Buy a KYC-free Claude Pro / Max 5x account](https://oksub.net/claude)
 - 📖 [Ready-made account guide (reference doc)](https://lq1cjotho2n.feishu.cn/wiki/EjA4wzb8tiTogrkmXEIcCXE4n4d)
 - 🛡️ [Claude Account Ban Prevention Guide](https://github.com/sunreview/anti-claude)
 
@@ -124,6 +124,6 @@ If this guide helped, **Star ⭐ / bookmark** it and come straight back whenever
 ---
 
 > [!IMPORTANT]
-> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-free Claude Pro accounts. The top-up service has been suspended.**
+> **📢 Notice: Due to Anthropic's tightened risk controls, we currently only sell ready-made, KYC-free Claude Pro / Max 5x accounts (Ultra is temporarily out of stock). The top-up service has been suspended.**
 >
-> 👉 **[Click here to buy a KYC-free Claude Pro account](https://store.ai-headshot.net/item/15)**
+> 👉 **[Click here to buy a KYC-free Claude Pro / Max 5x account](https://oksub.net/claude)**
