@@ -60,11 +60,15 @@ Follow the steps in the [reference doc](https://lq1cjotho2n.feishu.cn/wiki/EjA4w
 
 ### Q8: Is there a warranty?
 
-**30-day subscription warranty**: if the Pro / Max subscription drops within 30 days (and the account is not banned), contact support promptly (WeChat **gracereview618** / Telegram **@aispace_kefu**) with your order number. Note: **account bans are not covered**.
+The after-sales rules are below. Include your order number when contacting support (WeChat **gracereview618** / Telegram **@aispace_kefu**):
 
-### Q9: Why aren't account bans covered?
+- **10-minute check window**: after delivery, log in and check the account within 10 minutes, and report any problem to support right away.
+- **30-day subscription warranty**: if the Pro / Max subscription drops within 30 days (and the account is not banned), contact support.
+- **Ban warranty on first login only**: if the account is banned on its first login, contact support. Bans that happen later during use are **not refunded and no account ID is provided**.
 
-Claude is sensitive to the region and network environment it's used from. Bans are mostly related to how and where the account is used, which the seller cannot control. We recommend a stable, clean network.
+### Q9: Why are bans only covered on first login?
+
+Claude is sensitive to the region and network environment it's used from. The seller is responsible for the account's state up to the first login; after that, bans are mostly related to how and where the account is used, which the seller cannot control. We recommend a stable, clean network.
 
 ### Q10: Can I use the account on mobile?
 
