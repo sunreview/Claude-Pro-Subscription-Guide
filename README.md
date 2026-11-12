@@ -3,9 +3,9 @@
 **🌐 Language / 语言:** **简体中文** | [English](./README.en.md) | [Русский](./README.ru.md)
 
 > [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售已过KYC的Claude Pro成品号，代充服务已暂停。**
+> **📢 公告：因为 Anthropic 风控加重，目前只出售免KYC的Claude Pro成品号，代充服务已暂停。**
 >
-> 👉 **[点击购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
+> 👉 **[点击购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
 
 # 🚀 2026年国内如何订阅 Claude Pro 会员？Claude 订阅 / 充值 / 代充保姆级视频图文教程（新手可用）
 
@@ -15,21 +15,31 @@
 
 ## 1. ❓ Claude Pro 成品号常见问题 FAQ
 
-### Q1：什么是「已过KYC的Claude Pro成品号」？
+### Q1：什么是「免KYC的Claude Pro成品号」？
 
-是已经完成 **KYC 认证**、并开通了 **Claude Pro 套餐** 的现成 Claude 账号。下单后直接拿到账号就能用，不需要自己注册、认证或找支付方式。
+是 **发货时未被要求 KYC 身份验证**（免 KYC）、并已开通 **Claude Pro 套餐** 的现成 Claude 账号。下单后直接拿到账号就能用，不需要自己注册、认证或找支付方式。
 
-👉 [前往购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)
+👉 [前往购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)
 
-### Q2：为什么不再提供代充，只卖成品号？
+### Q2：免KYC是不是以后永远不会弹 KYC？
 
-Anthropic 最近风控加重，给新号或普通账号充值更容易出问题。已过 KYC 的成品号更稳定，所以目前只出售成品号，代充服务已暂停。
+**不是。** 「免 KYC」指的是 **发货时账号未被要求身份验证**，不是永久免验证的承诺。Anthropic 的 KYC 是风控触发的，后续如果频繁更换 IP / 地区、网络环境不干净、异地异常登录等，账号仍有可能被要求验证。
 
-### Q3：下单后多久能拿到账号？
+建议固定使用一个稳定、干净的网络环境登录，尽量不要频繁切换节点，可以明显降低触发概率。
+
+### Q3：后期使用弹出 KYC 了怎么办？
+
+弹出 KYC 后需要 **自己完成 KYC 验证**。我们这边也提供 **代过 KYC 业务**，具体可以加客服微信 **gracereview618** 咨询。
+
+### Q4：为什么不再提供代充，只卖成品号？
+
+Anthropic 最近风控加重，给新号或普通账号充值更容易出问题。已经开通 Pro 的成品号比代充稳定得多，所以目前只出售成品号，代充服务已暂停。
+
+### Q5：下单后多久能拿到账号？
 
 商品为 **手动发货**，Pro 套餐 **当日充值**。下单后请联系客服微信 **gracereview618**，客服核对订单后为你发货。
 
-### Q4：交付的是什么内容？
+### Q6：交付的是什么内容？
 
 交付格式如下：
 
@@ -42,40 +52,40 @@ Anthropic 最近风控加重，给新号或普通账号充值更容易出问题�
 
 收到后请妥善保存这些信息，不要泄露给他人。
 
-### Q5：拿到账号后怎么登录？
+### Q7：拿到账号后怎么登录？
 
 请按照 [参考文档](https://lq1cjotho2n.feishu.cn/wiki/EjA4wzb8tiTogrkmXEIcCXE4n4d) 的步骤操作。登录时如需接收邮箱验证码，可以用交付的邮箱或辅助邮箱查收。遇到问题直接联系客服。
 
 > ‼️ 建议使用稳定、干净的网络环境登录，降低封号风险。更详细的防封号技巧请参考 [Claude 防封号指南](https://github.com/sunreview/anti-claude)。
 
-### Q6：成品号质保吗？
+### Q8：成品号质保吗？
 
 **订阅质保 30 天**：30 天内 Pro 订阅中途掉了（账号未被封禁），请及时联系客服（微信 **gracereview618** / Telegram **@aispace_kefu**）并附上订单号处理。注意：**账号被封禁不在质保范围内**。
 
-### Q7：为什么不质保封号？
+### Q9：为什么不质保封号？
 
 Claude 对使用地区和网络环境比较敏感，封号原因多和使用环境有关，不在卖家能控制的范围内。建议使用稳定、干净的网络环境。
 
-### Q8：成品号可以在手机上用吗？
+### Q10：成品号可以在手机上用吗？
 
 可以。订阅绑定在账号上，网页端、桌面端和手机 App 登录同一个 Claude 账号都能使用 Pro。
 
-### Q9：成品号可以使用 Claude Code 吗？
+### Q11：成品号可以使用 Claude Code 吗？
 
 可以，不需要另外付费。Claude Code 包含在 Pro 订阅里：下载 Claude Code 或 Claude 桌面端，登录同一个 Claude 账号即可使用，额度随订阅档位计算。
 
-### Q10：有 Max 5x / Max 20x 成品号吗？
+### Q12：有 Max 5x / Max 20x 成品号吗？
 
 目前上架的是 **Claude Pro** 成品号。如需 Max，请先联系客服咨询。
 
-### Q11：下单后在哪里查订单？
+### Q13：下单后在哪里查订单？
 
 下单时需要填写 **邮箱地址** 和 **查询密码**。之后可以在商品所在店铺的「订单查询」页面，用这两项查询订单和发货内容。
 
 > [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售已过KYC的Claude Pro成品号，代充服务已暂停。**
+> **📢 公告：因为 Anthropic 风控加重，目前只出售免KYC的Claude Pro成品号，代充服务已暂停。**
 >
-> 👉 **[点击购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
+> 👉 **[点击购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
 
 ---
 
@@ -101,7 +111,7 @@ Claude 对使用地区和网络环境比较敏感，封号原因多和使用环�
 
 ## 🎯 最后总结
 
-因为 Anthropic 风控加重，代充已经不稳定。现在想用上 Claude Pro，最省心的方式是直接买一个 **已过KYC的Claude Pro成品号**，流程可以概括成一句话：
+因为 Anthropic 风控加重，代充已经不稳定。现在想用上 Claude Pro，最省心的方式是直接买一个 **免KYC的Claude Pro成品号**，流程可以概括成一句话：
 
 > **商品页下单付款 → 联系客服 gracereview618 → 收到账号信息 → 按参考文档登录使用。**
 
@@ -109,7 +119,7 @@ Claude 对使用地区和网络环境比较敏感，封号原因多和使用环�
 
 ### 🚀 相关入口
 
-- 👉 [购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)
+- 👉 [购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)
 - 📖 [成品号使用说明（参考文档）](https://lq1cjotho2n.feishu.cn/wiki/EjA4wzb8tiTogrkmXEIcCXE4n4d)
 - 🛡️ [Claude 防封号指南](https://github.com/sunreview/anti-claude)
 
@@ -118,6 +128,6 @@ Claude 对使用地区和网络环境比较敏感，封号原因多和使用环�
 ---
 
 > [!IMPORTANT]
-> **📢 公告：因为 Anthropic 风控加重，目前只出售已过KYC的Claude Pro成品号，代充服务已暂停。**
+> **📢 公告：因为 Anthropic 风控加重，目前只出售免KYC的Claude Pro成品号，代充服务已暂停。**
 >
-> 👉 **[点击购买已过KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
+> 👉 **[点击购买免KYC的Claude Pro成品号](https://store.ai-headshot.net/item/15)**
